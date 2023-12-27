@@ -1,10 +1,10 @@
 {
-	"id": "minio-uploader",
-	"name": "Minio Uploader",
+	"id": "another-minio-uploader",
+	"name": "Minio-Uploader",
 	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Upload images, videos, audio, pdf, and other files to Minio OSS.",
-	"author": "Seebin",
+	"author": "Daisuke Miyazaki",
 	"authorUrl": "https://www.seebin.com",
 	"isDesktopOnly": false
 }
